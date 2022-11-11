@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "55477669-7951-43dd-b45b-5af00edb390a",
+        "fields": {
+            "title": "Book 1",
+            "author": "some author",
+            "price": "99.00",
+            "date_publication": "2022-11-10",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "bc7d3cc8-b880-410d-b500-021a044362e6",
+        "fields": {
+            "title": "Book 3",
+            "author": "Same author",
+            "price": "9999.00",
+            "date_publication": "2022-11-10",
+            "cover": "covers/DjangoUnleashed.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "e5b2665d-db88-465a-a87a-de0e4022c821",
+        "fields": {
+            "title": "Book 2",
+            "author": "Some other author",
+            "price": "999.00",
+            "date_publication": "2022-11-10",
+            "cover": "covers/Lightweight.jpg"
+        }
+    }
+]
